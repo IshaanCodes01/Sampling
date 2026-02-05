@@ -229,6 +229,6 @@ This project is for educational purposes only.
 
 ---
 
-**Date:** [Current Date]  
-**Course:** Machine Learning / Data Science  
-**Institution:** [Your Institution Name]
+**Date:** 2nd Feb, 2026  
+**Course:** Predictive Analysis  
+**Institution:** Thapar Institute of Engineering and Technology
